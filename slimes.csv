@@ -1,11 +1,11 @@
-Rosado-01,Rosado,12.5
-Roca-01,Roca,18
-Fuego-01,Fuego,25.75
-Tabby-01,Tabby,15
-Cristal-01,Cristal,40
-Rad-01,Rad,12.5
-Quantum-01,Quantum,56
-Rosado-02,Rosado,12.5
-Rosado-03,Rosado,12.5
-Tabby-02,Tabby,15
-Mosaico-01,Mosaico,60
+Area,CorralID,TipoSlime,Cantidad,Capacidad,ValorPlort,ComidaPorSlime
+The Ranch,C01,Pink,12,20,7.5,1
+The Ranch,C02,Phosphor,8,15,15.0,2
+The Ranch,C03,Tabby,14,20,18.0,2
+The Grotto,C04,Rock,10,15,22.0,2
+The Grotto,C05,Rad,9,12,35.5,3
+The Overgrowth,C06,Honey,6,12,45.0,3
+The Overgrowth,C07,Boom,7,12,40.0,3
+The Lab,C08,Crystal,5,10,58.0,4
+The Lab,C09,Quantum,4,10,62.5,4
+The Docks,C10,Puddle,4,6,30.0,1
